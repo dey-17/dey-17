@@ -23,6 +23,9 @@ Soy un apasionado [desarrollador](enlace-a-tu-perfil) con experiencia en:
 
 Puedes encontrarme en [LinkedIn](enlace-a-linkedin) y [Twitter](enlace-a-twitter). ¡Conéctate conmigo!
 
+## 🌈 Imágenes
+
+![Imagen de Python](enlace-a-imagen-python.jpg)
+![Imagen de JavaScript](enlace-a-imagen-javascript.jpg)
+
 ¡Gracias por visitar! 🙌
-
-
